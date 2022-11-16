@@ -47,6 +47,16 @@ This software is only 3.84 Kilobytes in size (not including the dictionary),
 and would easily fit on a 5.25 inch floppy disk.
 
 
+### SEE ALSO
+
+* Dial-A-Word: A piece of software written by bekkam, which I discovered after
+  my program was published in 2600, and which was written way back in 2016.
+  Located at: https://github.com/bekkam/dial-a-word
+* Dial A Word: A program written by kgleason after he read my article in 2600,
+  which currently has a faster runtime and lots of fancy command line options.
+  Located at: https://github.com/kgleason/dial-a-word
+* www.dialaword.com.au: A website that sells phone numbers with words in them.
+
 ### COPYRIGHT NOTICE
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
