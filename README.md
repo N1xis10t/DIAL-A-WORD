@@ -53,9 +53,13 @@ and would easily fit on a 5.25 inch floppy disk.
 
 * Dial-A-Word: A piece of software written by bekkam, which I discovered after
   my program was published in 2600, and which was written way back in 2016.
-  Located at: https://github.com/bekkam/dial-a-word
+  It functions similarly to my script, but will only return a word if the exact
+  number for it is given as input. It will not work for checking whole phone
+  numbers. Located at: https://github.com/bekkam/dial-a-word
 * Dial A Word: A program written by kgleason after he read my article in 2600,
   which currently has a faster runtime and lots of fancy command line options.
+  It can be used with much larger dictionaries, and the maximum and minimum
+  word lengths can be set from the command line.
   Located at: https://github.com/kgleason/dial-a-word
 * www.dialaword.com.au: A website that sells phone numbers with words in them.
 
