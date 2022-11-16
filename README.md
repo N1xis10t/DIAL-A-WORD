@@ -43,7 +43,7 @@ This software cannot find words that are less than three characters long, as a
 side effect of having to filter out garbage words from the dictionary. This
 could be fixed by removing the filter and using a better dictionary.
 
-This software is only 7 Kilobytes in size (not including the dictionary),
+This software is only 3.84 Kilobytes in size (not including the dictionary),
 and would easily fit on a 5.25 inch floppy disk.
 
 
