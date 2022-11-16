@@ -1,10 +1,10 @@
 
 
 # DIAL-A-WORD
-Copyright (c) 2022 N1xis10t
+Copyright © 2022 N1xis10t
 
 
-## ABSTRACT
+### ABSTRACT
 
 This software is for finding words in phone numbers (like 888-EYES) that
 you see government agencies and others using. Now, I'm pretty sure that they
@@ -13,7 +13,7 @@ The idea behind this software is to provide the user with the ability to
 aquire numbers like that without paying extra.
 
 
-## FUNCTIONALITY
+### FUNCTIONALITY
 
 When you are setting up a phone line with the telephone company, what
 they typically do is give you an option to choose a randomly selected phone
@@ -27,7 +27,7 @@ Repeat this until you find one that you like, or until the technician gets
 fed up with you.
 
 
-## DEPENDENCIES
+### DEPENDENCIES
 
 This software requires that the file "google-10000-english.txt" be in the same
 folder. This is a file that has the 10000 most common english words in it,
@@ -37,7 +37,7 @@ when you try to use an exhaustive list of English words. Feel free to try to
 use a better dictionary.
 
 
-## NOTES
+### NOTES
 
 This software cannot find words that are less than three characters long, as a
 side effect of having to filter out garbage words from the dictionary. This
@@ -47,7 +47,7 @@ This software is only 7 Kilobytes in size (not including the dictionary),
 and would easily fit on a 5.25 inch floppy disk.
 
 
-## COPYRIGHT NOTICE
+### COPYRIGHT NOTICE
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
