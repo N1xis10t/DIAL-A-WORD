@@ -1,7 +1,7 @@
 
 
-<span style="text-align:center">* DIAL-A-WORD *</span>
-<span style="text-align:center">Copyright (c) 2022 N1xis10t</span> 
+=DIAL-A-WORD=
+Copyright (c) 2022 N1xis10t
 
 
 ABSTRACT
