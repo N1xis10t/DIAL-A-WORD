@@ -3,7 +3,7 @@
 # DIAL-A-WORD
 Previously published in 2600 Magazine
 <br>
-<i>Copyright © 2022 N1xis10t<\i>
+<i>Copyright © 2022 N1xis10t</i>
 
 
 ### ABSTRACT
